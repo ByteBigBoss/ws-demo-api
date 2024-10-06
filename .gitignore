@@ -1,0 +1,14 @@
+# Build directory
+/build/
+
+# NetBeans project-specific settings (IDE-related files)
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+
+# Compiled binary files and libraries
+/lib/
+
+# Files generated during build
+/build.xml
+/dist/
